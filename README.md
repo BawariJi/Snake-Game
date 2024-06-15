@@ -1,0 +1,1 @@
+Developed a classic Snake game using Java, implementing object-oriented programming principles. Designed game logic, collision detection, and graphical user interface, ensuring smooth gameplay and responsive controls. Utilized Java Swing for the user interface and AWT for handling game animations.
